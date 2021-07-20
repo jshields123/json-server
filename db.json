@@ -8,7 +8,7 @@
       "location": "My Desk",
       "date": "28/07/2021",
       "time": "12:00",
-      "organizer": "Jack Shields"
+      "creator": "Jack Shields"
     },
     {
       "id": 456,
@@ -18,7 +18,7 @@
       "location": "My kitchen",
       "date": "28/07/2021",
       "time": "10:00",
-      "organizer": "Jack Shields"
+      "creator": "Jack Shields"
     },
     {
       "id": 789,
@@ -28,7 +28,7 @@
       "location": "Queens Park",
       "date": "22/07/2021",
       "time": "11:00",
-      "organizer": "Jack Shields"
+      "creator": "Jack Shields"
     }
   ]
 }
